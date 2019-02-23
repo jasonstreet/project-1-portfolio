@@ -1,0 +1,243 @@
+body{
+  font: 15px/1.5 Arial, Helvetica, sans-serif;
+  padding: 0;
+  margin:0;
+  background-image: url(img/p2.png);
+  z-index: 0;
+}
+
+.container{
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.headercontainer{
+  color: #41434F;
+}
+
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.fadeIn {
+  animation-name: fadeIn;
+}
+
+
+.box1{
+    padding-top: 3%;
+    content:
+}
+
+.box1content{
+    padding: 1%;
+}
+
+.box2{
+    padding-top: 3%;
+}
+
+.box2content{
+    padding: 1%;
+}
+
+.box3{
+    padding-top: 3%;
+}
+
+.box3content{
+    padding: 1%;
+}
+
+ul{
+  margin: 0;
+  padding: 0;
+}
+
+/* Header */
+header{
+  color: #ffffff;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.5) 59%, rgba(0, 0, 0, 0.65) 100%), url(img/pile-1868894_1920.jpg) no-repeat;
+  padding-top: 30px;
+  min-height: 70px;
+  border-bottom: #32a0c2 3px solid;
+}
+
+header a{
+  color: #ffffff;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+header li{
+  float: left;
+  display: inline;
+  padding: 0 20px 0 20px;
+}
+
+header #branding{
+  float: left;
+}
+
+header #branding h1{
+  margin: 0;
+}
+
+header nav{
+  float: right;
+  margin-top: 10px;
+}
+
+header .highlight, header .current a{
+  color: #32a0c2;
+  font-weight: bold;
+}
+
+header a:hover{
+  color: #cccccc;
+  font-weight: bold;
+}
+
+@media(max-width: 768px){
+  header #branding,
+  header nav,
+  header nav li,
+  #newsletter h1,
+  #newsletter form,
+  #boxes .box {
+    float: none;
+    text-align: center;
+    width: 100%;
+      display: block;
+  }
+
+  header{
+    padding-bottom: 20px;
+  }
+
+  #showcase h1{
+    margin-top: 40px;
+  }
+
+  #newsletter button {
+    display: block;
+    width: 100%;
+  }
+
+  #newsletter form input[type="email"] {
+    width: 100%;
+    margin-bottom: 5px;
+  }
+}
+    
+/* Showcase */
+
+#showcase {
+  min-height: 400px;
+  background:url('http://media.michelinman.com/content/dam/master/Michelin/tires/default/key-benefits/18_terrain_proof.gif') no-repeat center;
+  background-size: cover;
+  text-align: center;
+  color: #ffffff;
+}
+
+#showcase h1{
+  margin-top: 100px;
+  font-size: 55px;
+  margin-bottom: 10px;
+}
+
+#showcase p{
+  font-size: 20px;
+}
+
+/* Newsletter */
+#newsletter{
+  padding: 15px;
+  color: #ffffff;
+  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.8) 0%, rgba(0, 0, 0, 0.5) 59%, rgba(0, 0, 0, 0.65) 100%), url(img/pile-1868894_1920.jpg) no-repeat;
+}
+
+#newsletter h1{
+  float: left;
+}
+
+#newsletter form{
+  float: right;
+  margin-top: 15px;
+}
+
+#newsletter input[type="email"]{
+  padding: 4px;
+  height: 25px;
+  width: 250px;
+}
+
+.button_1{
+  height: 38px;
+  background: #cccccc;
+  border: 0;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #353637;
+}
+
+footer{
+  padding: 20px;
+  margin-top: 20px;
+  color: #ffffff;
+  background:
+      linear-gradient(27deg, #151515 5px, transparent 5px) 0 5px,
+      linear-gradient(207deg, #151515 5px, transparent 5px) 10px 0px,
+      linear-gradient(27deg, #222 5px, transparent 5px) 0px 10px,
+      linear-gradient(207deg, #222 5px, transparent 5px) 10px 5px,
+      linear-gradient(90deg, #1b1b1b 10px, transparent 10px),
+      linear-gradient(#1d1d1d 25%, #1a1a1a 25%, #1a1a1a 50%, transparent 50%, transparent 75%, #242424 75%, #242424);
+  background-color: #131313;
+  background-size: 20px 20px;
+  text-align: center;
+}
+
+ul.list-inline li{
+    font-size: 30px;
+    list-style: none;
+    display: inline;  
+    padding: 5px;
+    text-decoration: none !important;
+}
+
+.socicon{
+    text-decoration: none;
+    color: white;
+}
+
+.lightboximg{
+    padding-left: 50px;
+}
+
+/* Fade */
+/* Border Fade */
+.hvr-border-fade {
+  display: inline-block;
+  vertical-align: middle;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  box-shadow: 0 0 1px transparent;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-property: box-shadow;
+  transition-property: box-shadow;
+  /* Hack to improve aliasing on mobile/tablet devices */
+}
+.hvr-border-fade:hover, .hvr-border-fade:focus, .hvr-border-fade:active {
+  box-shadow: inset 0 0 0 4px #41434F, 0 0 1px transparent;
+  /* Hack to improve aliasing on mobile/tablet devices */
+}
