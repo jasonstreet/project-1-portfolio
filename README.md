@@ -27,6 +27,7 @@ I made a lot of changes to this project over time. At one point, I had left a lo
 * HTML5
 * JavaScript
 * PHP
+* SCSS
 
 ## Authors
 
@@ -35,9 +36,10 @@ I made a lot of changes to this project over time. At one point, I had left a lo
 
 ## Acknowledgments
 
-* CodePen (For some animations)
-* BootStrap Template (For website template)
+* CodePen (For some animations and SCSS)
+* BootStrap (For website template)
 * Google (For some images)
+* SweetJS (For improved JavaScript notifications)
 
 
 
