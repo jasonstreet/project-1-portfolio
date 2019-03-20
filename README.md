@@ -1,7 +1,6 @@
 # Project 1 - Portfolio
 
 
-
 ## Getting Started
 
 This project can be deployed by either following this link: https://jasonstreet.github.io/project-1-portfolio/
@@ -10,6 +9,7 @@ By downloading all of the files as a zip and opening as a project in Brackets (o
 
 ## Testing
 
+This website has been tested on Vivaldi, Google Chrome, Internet Explorer and Microsoft Edge. I have tested the responsiveness of the website by re-sizing it, and all the elements fit to the screen when shrunk or enlarged. The JavaScript also works on multiple browsers without any noticable errors.
 
 ### Goals
 
@@ -33,16 +33,9 @@ I made a lot of changes to this project over time. At one point, I had left a lo
 
 * **Jason Street** - *For Code Institute*
 
-
 ## Acknowledgments
 
 * CodePen (For some animations and SCSS)
 * BootStrap (For website template)
 * Google (For some images)
 * SweetJS (For improved JavaScript notifications)
-
-
-
-Project 1 - Front-end focused Portfolio
-
-
