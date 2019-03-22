@@ -11,6 +11,16 @@ By downloading all of the files as a zip and opening as a project in Brackets (o
 
 This website has been tested on Vivaldi, Google Chrome, Internet Explorer and Microsoft Edge. I have tested the responsiveness of the website by re-sizing it, and all the elements fit to the screen when shrunk or enlarged. The JavaScript also works on multiple browsers without any noticable errors.
 
+## Roadmap
+
+I originally started out with a very basic template, without any boostrap. After looking around on the internet, I realised that most modern website used Bootstrap and Bootstrap templates, so I looked into changing. I had an idea about the elements I wanted to implement, such as animations and certain design elements.
+
+I started out with just writing the text, and I grdually added in more and more elements. I experimented with a lot of different animations from different websites. Some were a bit oer the top, and I eventually settled for smooth and minimalistic animations. I knew I wanted my portfolio to be sleek and modern so I think the animations I chose worked well. 
+
+I looked aroun a lot on the inernet for interesting things I could add, and I found some JavaScript on CodePen that allowed to add an animation that typed out pre-selected phrases. I also found SweetJS, which is a plugin that improves the look of JavaScript notifications, which I implemented into my contact form.
+
+The last thing I added was my project modals. The Bootstrap template had the models loaded in, however I added my own projects to them with descriptions and links to their GitHub pages. I also added information to the timeline aswell as animations and images.
+
 ### Goals
 
 I think the original goal I had in mind was realistic with regards to the speification provided for the module as well as my own skills as a developer. The project showcases my skills in HTML, CSS and Javascript and collates them in an easy to use and view portfolio. Not only does the portfolio act as a gateway tp other standalone projects, but acts as a showcase in itself of multiple front-end techonlogies. I think that this website achieves the aims that I started with, namely to build a nice looking and functional portfolio.
