@@ -1,11 +1,11 @@
 # Project 1 - Portfolio
 
 
-## Getting Started
+## Deployment
 
-This project can be deployed by either following this link: https://jasonstreet.github.io/project-1-portfolio/
+This project can be deployed by either following this link: https://jasonstreet.github.io/project-1-portfolio/. This link has been deployed using GitHub pages.
 OR
-By downloading all of the files as a zip and opening as a project in Brackets (other IDE's should work but results may differ)
+You can download all of the files as a zip and opening as a project in your chosen IDE. (Tested in Brackets, but should work with other IDE's as well).
 
 ## Testing
 
