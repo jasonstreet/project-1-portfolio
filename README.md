@@ -1,5 +1,5 @@
 # Project 1 - Portfolio
-
+Personal portfolio with Bootstrap, Javascript, PHP, HTML and CSS
 
 ## Deployment
 
