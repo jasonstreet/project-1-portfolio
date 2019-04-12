@@ -9,7 +9,13 @@ You can download all of the files as a zip and opening as a project in your chos
 
 ## Testing
 
-This website has been tested on Vivaldi, Google Chrome, Internet Explorer and Microsoft Edge. I have tested the responsiveness of the website by re-sizing it, and all the elements fit to the screen when shrunk or enlarged. The JavaScript also works on multiple browsers without any noticeable errors.
+This website has been tested on the following browsers:
+* Vivaldi 
+* Google Chrome
+* Internet Explorer
+* Microsoft Edge. 
+
+I have tested the responsiveness of the website by re-sizing it, and all the elements fit to the screen when shrunk or enlarged. The JavaScript also works on multiple browsers without any noticeable errors. I have also tested this website with mobiles as well, by using the chromium developer console to switch to mobile and tablet views. No noticable issues were discovered following these tests.
 
 ## Roadmap
 
