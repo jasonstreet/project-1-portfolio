@@ -1,13 +1,23 @@
 # Project 1 - Portfolio
 Personal portfolio with Bootstrap, Javascript, PHP, HTML and CSS
 
-## Deployment
+## Table of Contents  
+1. [Deployment](#Deployment)  
+2. [Testing](#Testing)
+3. [Roadmap](#Testing) 
+4. [Goals](#Goals)
+5. [Improvements](#Improvements)
+6. [Credits](#Credits)
+
+## Deployment <a name="Deployment"></a>
 
 This project can be deployed by either following this link: https://jasonstreet.github.io/project-1-portfolio/. This link has been deployed using GitHub pages.
 OR
 You can download all of the files as a zip and opening as a project in your chosen IDE. (Tested in Brackets, but should work with other IDE's as well).
 
-## Testing
+To deploy this website on Github pages, I entered the settings menu on the Github repository for this project, and then deployed the master branch from the Github pages section
+
+## Testing <a name="Testing"></a>
 
 This website has been tested on the following browsers:
 * Vivaldi 
@@ -17,7 +27,7 @@ This website has been tested on the following browsers:
 
 I have tested the responsiveness of the website by re-sizing it, and all the elements fit to the screen when shrunk or enlarged. The JavaScript also works on multiple browsers without any noticeable errors. I have also tested this website with mobiles as well, by using the chromium developer console to switch to mobile and tablet views. No noticable issues were discovered following these tests.
 
-## Roadmap
+## Roadmap <a name="Roadmap"></a>
 
 I originally started out with a very basic template, without any bootstrap. After looking around on the internet, I realised that most modern websites used Bootstrap and Bootstrap templates, so I looked into changing. I had an idea about the elements I wanted to implement, such as animations and certain design elements.
 
@@ -27,7 +37,7 @@ I looked around a lot on the internet for interesting things I could add, and I 
 
 The last thing I added was my project modals. The Bootstrap template had the models loaded in, however, I added my own projects to them with descriptions and links to their GitHub pages. I also added information to the timeline as well as animations and images.
 
-### Goals
+### Goals <a name="Goals"></a>
 
 I think the original goal I had in mind was realistic with regards to the specification provided for the module as well as my own skills as a developer. The project showcases my skills in HTML, CSS and Javascript and collates them in an easy to use and view portfolio. Not only does the portfolio act as a gateway to other standalone projects, but acts as a showcase in itself of multiple front-end technologies. I think that this website achieves the aims that I started with, namely to build a nice looking and functional portfolio.
 
@@ -37,7 +47,13 @@ However, there are certain things that I could have done differently, in order t
 
 I made a lot of changes to this project over time. At one point, I had left a lot of redundant files in the project, such as javascript files for animations and functions that were no longer used. It was pointed out to me that I should remove these files to reduce the clutter/size of the project. I have left some commented code in my project files however, as I consider them to be helpful and provide insight into how some of the more complicated bits of Javascript work.
 
-## Built With
+### Improvements <a name="Improvements"></a>
+
+I developed this project locally using Brackets. One thing I should have started from the very start was deploy more regulary to Github. Instead, I completed most of the work, and gradually uploaded it, so for example, once I had finished all of the CSS, I uploaded only after that point. For a clearer and richer Github repo history, I should have committed my work from day one, even if it wasn't how I envisioned the final product. Working on the other projects has definitely taught me to regulary commit to Github.
+
+I could have also looked into setting up a loading screen for my website, as there is a slight delay between when the user opens the website, to all of the elements loading, such as the animated text on the landing page. After looking into this, I realise it might be possible using Javascript and AJAX.
+
+## Built With <a name="Credits"></a>
 
 * CSS3
 * HTML5
