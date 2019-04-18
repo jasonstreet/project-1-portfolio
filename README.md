@@ -27,6 +27,8 @@ This website has been tested on the following browsers:
 
 I have tested the responsiveness of the website by re-sizing it, and all the elements fit to the screen when shrunk or enlarged. The JavaScript also works on multiple browsers without any noticeable errors. I have also tested this website with mobiles as well, by using the chromium developer console to switch to mobile and tablet views. No noticable issues were discovered following these tests.
 
+I had originally set up a mail server to receive enquiries with the form at the bottom of the page, however due to running costs I had to close it down, which is why the form no longer works, however an error message is given to relay this back to the end user.
+
 ## Roadmap <a name="Roadmap"></a>
 
 I originally started out with a very basic template, without any bootstrap. After looking around on the internet, I realised that most modern websites used Bootstrap and Bootstrap templates, so I looked into changing. I had an idea about the elements I wanted to implement, such as animations and certain design elements.
