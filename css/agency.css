@@ -669,6 +669,7 @@ ul.social-buttons {
     background:linear-gradient(0deg,rgba(255,189,166,1),rgba(255,189,166,1))
 }
 .card .image img {
+    height: 100%;
     width: 100%;
     transition: .5s;
     background:linear-gradient(0deg,rgba(255,189,166,1),rgba(255,189,166,1))
